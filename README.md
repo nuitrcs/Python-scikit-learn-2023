@@ -8,3 +8,6 @@
 <br>[ML workflow 2 Answers](https://colab.research.google.com/github/nuitrcs/Python-scikit-learn-2023/blob/main/ML_workflow_2_answers.ipynb)
 <br>[ML workflow 3](https://colab.research.google.com/github/nuitrcs/Python-scikit-learn-2023/blob/main/ML_workflow_3.ipynb)
 <br>[ML workflow 3 Answers](https://colab.research.google.com/github/nuitrcs/Python-scikit-learn-2023/blob/main/ML_workflow_3_answers.ipynb)
+
+#### <br><br>To directly upload a data file onto colab, insert the filename and run the command below:
+!wget https://raw.githubusercontent.com/nuitrcs/Python-scikit-learn-2023/main/data/<filename>
